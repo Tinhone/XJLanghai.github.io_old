@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+        <title>图片轮换</title>
+        <style>
+            body {
+                margin: 0px;
+                padding: 0px;
+            }
+        </style>
+        <audio src="sound.mp3" autoplay="autoplay"></audio>
+    </head>
+    <body>
+        <img src="1.bmp" id="image" width="100%">
+    </body>
+    <script>
+        var arr=new Array()
+        arr[0]="1.bmp";
+        arr[1]="2.bmp";
+        var i=0;
+        function image()
+        {
+            var image=document.getElementById("image");
+            image.src=arr[i];
+            i++;
+            if(i>1){i=0};             
+        };
+        setInterval(function(){
+        image();
+        },50);
+    </script>
+</html>
