@@ -1,8 +1,4 @@
 @font-face {
-    font-family: minecraft;
-    src:url(../fonts/Minecraft_0.ttf);
-}
-@font-face {
     font-family: 宋;
     src: url(../fonts/方正清刻本悦宋.ttf);
 }
@@ -16,7 +12,6 @@ body {
     margin: 0px;
     padding: 0px;
     background-color: rgb(245, 245, 245);
-    
 }
 
 ::selection {
@@ -32,7 +27,6 @@ body {
     color:#555;
 }
 
-
 #导航 {
     opacity: 0.5; 
     position: absolute;
@@ -47,7 +41,6 @@ body {
     width: auto;
     padding: 0px 2%;
     font-size: 30px;
-    font-family: minecraft;
 }
 #导航栏 ul li a {
     text-decoration: none;
