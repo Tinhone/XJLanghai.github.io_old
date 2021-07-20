@@ -60,25 +60,25 @@ html, body{
 
 
 .上出 {
-    animation-duration: 1s;
+    animation-duration: 0.8s;
     animation-fill-mode: both;
     animation-name: 上出;
 }
 
 .下出 {
-    animation-duration: 1s;
+    animation-duration: 0.8s;
     animation-fill-mode: both;
     animation-name: 下出;
 }
 .左出 {
 
-    animation-duration: 1s;
+    animation-duration: 0.8s;
     animation-fill-mode: both;
     animation-name: 左出;
 }
 
 .右出 {
-    animation-duration: 1s;
+    animation-duration: 0.8s;
     animation-fill-mode: both;
     animation-name: 右出;
 }
