@@ -28,17 +28,13 @@ body {
 }
 
 #导航 {
-    opacity: 0.5; 
     position: absolute;
-    z-index: 999;
     top: 0;
     width: 100%;
     height: 60px;
-    background-color: rgb(41, 41, 41);
 }
 #导航栏 ul li {
     display: inline-block;
-    width: auto;
     padding: 0px 2%;
     font-size: 30px;
 }
@@ -51,8 +47,9 @@ body {
     float: left;
 }
 #主标题 {
+    padding: 5px;
     font-size: 40px;
-    color: white;
+    color: rgb(161, 161, 161);
     float: right;
     font-family: 宋;
 }
