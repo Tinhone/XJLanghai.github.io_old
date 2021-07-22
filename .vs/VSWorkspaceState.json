@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\167",
-    "\\167\\home",
-    "\\167\\map",
-    "\\167\\map\\The 167 World!!!",
-    "\\167\\mframe",
-    "\\167\\mobile",
-    "\\167\\mobile\\img",
-    "\\167\\server\\The 167 World!!!",
-    "\\167\\其他"
+    "\\167\\audio",
+    "\\167\\server\\The 167 World!!!\\plugins\\CatSeedLogin",
+    "\\167\\server\\The 167 World!!!\\plugins\\Dynmap",
+    "\\167\\server\\The 167 World!!!\\plugins\\Geyser",
+    "\\167\\server\\The 167 World!!!\\plugins\\JustMoney",
+    "\\167\\server\\The 167 World!!!\\plugins\\QualityArmory",
+    "\\167\\server\\The 167 World!!!\\plugins\\Residence",
+    "\\167\\server\\The 167 World!!!\\plugins\\TPAPro"
   ],
-  "SelectedNode": "\\167\\其他\\基本.css",
+  "SelectedNode": "\\167\\index.html",
   "PreviewInSolutionExplorer": false
 }
